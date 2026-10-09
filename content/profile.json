@@ -1,0 +1,264 @@
+{
+  "blog": [],
+  "education": [
+    {
+      "date": "2013 - 2015",
+      "name": "MSc in Communication Studies (E-Media)",
+      "company": "Institute of Communication Studies, PU Lahore",
+      "description": "Postgraduate education in communication studies and electronic media."
+    },
+    {
+      "date": "2011 - 2013",
+      "name": "Graduation in Arts",
+      "company": "PU Lahore",
+      "description": "Journalism as major subject."
+    },
+    {
+      "date": "2008 - 2010",
+      "name": "FSc (Pre-Engineering)",
+      "company": "BISE Lahore",
+      "description": "Higher secondary education in pre-engineering."
+    },
+    {
+      "date": "2006 - 2008",
+      "name": "Matric (Science)",
+      "company": "BISE Lahore",
+      "description": "Secondary education in science."
+    }
+  ],
+  "experience": [
+    {
+      "date": "2018 - Present",
+      "name": "Personal Assistant",
+      "company": "Executive Director, C.P.E. Institute of Cardiology",
+      "description": "Manage executive schedules, official correspondence, and confidential records with efficiency and discretion. Coordinate meetings, hospital events, and interdepartmental communication. Assist with administrative tasks, project follow-ups, and reporting to support executive decision-making."
+    },
+    {
+      "date": "2017 - 2018",
+      "name": "Assistant News Producer",
+      "company": "GNN TV",
+      "description": "Assisted the News Producer with assigned tasks in the News Production Control Room."
+    },
+    {
+      "date": "2015 - 2017",
+      "name": "Transmission Officer",
+      "company": "Dunya TV",
+      "description": "Scheduled commercials and news segments to ensure smooth broadcast flow. Monitored on-air content and programming accuracy. Handled office management tasks to support daily operations."
+    }
+  ],
+  "pricing": [],
+  "services": [
+    {
+      "name": "Executive Assistance",
+      "description": "Executive scheduling, confidential correspondence, and coordination to support effective leadership.",
+      "icon": "fa fa-calendar"
+    },
+    {
+      "name": "Administrative Support",
+      "description": "Documentation, reporting, meeting coordination, and project follow-ups for smooth daily operations.",
+      "icon": "fa fa-file-text-o"
+    },
+    {
+      "name": "Broadcast Coordination",
+      "description": "News production support, transmission scheduling, and monitoring of on-air programming.",
+      "icon": "fa fa-video-camera"
+    },
+    {
+      "name": "Digital Communication",
+      "description": "Business social media handling, internet research, content creation, and online brand awareness.",
+      "icon": "fa fa-comments-o"
+    }
+  ],
+  "works": [],
+  "name": "Binyamin",
+  "roles": [
+    "Personal Assistant",
+    "Administrative Professional",
+    "Communication Specialist"
+  ],
+  "portrait": "/images/binyamin.png",
+  "avatar": "/images/binyamin.png",
+  "description": "I am Binyamin, a Personal Assistant from Wazirabad, Pakistan. I support executive leadership through scheduling, confidential correspondence, interdepartmental coordination, and administrative reporting.",
+  "age": "",
+  "residence": "Pakistan",
+  "availability": "Get in touch",
+  "address": "Wazirabad, Pakistan",
+  "email": "binyaminmughal@outlook.com",
+  "phone": "+92 322 2354464",
+  "website": "",
+  "mapEmbedUrl": "",
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "icon": "fa fa-linkedin",
+      "url": "https://www.linkedin.com/in/binyasays"
+    },
+    {
+      "name": "Facebook",
+      "icon": "fa fa-facebook",
+      "url": "https://www.facebook.com/binyasays"
+    },
+    {
+      "name": "Instagram",
+      "icon": "fa fa-instagram",
+      "url": "https://www.instagram.com/binyasays"
+    },
+    {
+      "name": "GitHub",
+      "icon": "fa fa-github",
+      "url": "https://github.com/zstarkips"
+    }
+  ],
+  "facts": [
+    {
+      "icon": "fa fa-briefcase",
+      "label": "3 Professional Roles"
+    },
+    {
+      "icon": "fa fa-graduation-cap",
+      "label": "4 Qualifications"
+    },
+    {
+      "icon": "fa fa-keyboard-o",
+      "label": "Up to 50 WPM"
+    },
+    {
+      "icon": "fa fa-globe",
+      "label": "4 Languages"
+    }
+  ],
+  "clients": [],
+  "quote": {
+    "text": "I believe in continuous learning, personal development, and the power of education to unlock future success.",
+    "name": "Binyamin",
+    "role": "Personal Assistant",
+    "image": "/images/binyamin.png"
+  },
+  "testimonials": [],
+  "skills": {
+    "design": [
+      {
+        "name": "Microsoft Office",
+        "level": null,
+        "detail": "Word, Excel, PowerPoint"
+      },
+      {
+        "name": "English Typing",
+        "level": null,
+        "detail": "Up to 50 words per minute"
+      },
+      {
+        "name": "Documentation & Formatting",
+        "level": null,
+        "detail": "Administrative documents and reports"
+      },
+      {
+        "name": "Internet Research",
+        "level": null,
+        "detail": "Information gathering and organisation"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "level": null,
+        "detail": "Fluent"
+      },
+      {
+        "name": "Arabic",
+        "level": null,
+        "detail": "Read, write, and learn"
+      },
+      {
+        "name": "French",
+        "level": null,
+        "detail": "Read"
+      },
+      {
+        "name": "Chinese",
+        "level": null,
+        "detail": "Read Pinyin"
+      }
+    ],
+    "coding": [
+      {
+        "name": "Communication Skills",
+        "level": null,
+        "detail": ""
+      },
+      {
+        "name": "Time Management",
+        "level": null,
+        "detail": ""
+      },
+      {
+        "name": "Administrative Support",
+        "level": null,
+        "detail": ""
+      },
+      {
+        "name": "Digital Literacy",
+        "level": null,
+        "detail": ""
+      },
+      {
+        "name": "Team Collaboration",
+        "level": null,
+        "detail": ""
+      },
+      {
+        "name": "Quick Learner",
+        "level": null,
+        "detail": ""
+      }
+    ],
+    "knowledge": [
+      "Executive scheduling",
+      "Confidential correspondence",
+      "Interdepartmental coordination",
+      "Administrative reporting",
+      "Business social media handling",
+      "Basic e-commerce platforms",
+      "Content creation",
+      "Online brand awareness"
+    ]
+  },
+  "aboutFacts": [
+    {
+      "label": "Role",
+      "value": "Personal Assistant"
+    },
+    {
+      "label": "Residence",
+      "value": "Pakistan"
+    },
+    {
+      "label": "Experience",
+      "value": "Since 2015"
+    },
+    {
+      "label": "Address",
+      "value": "Wazirabad, Pakistan"
+    }
+  ],
+  "skillLabels": {
+    "design": "Technical Skills",
+    "languages": "Languages",
+    "coding": "Personal Skills",
+    "knowledge": "Knowledge"
+  },
+  "personalStatement": "A motivated and goal-oriented professional with a solid background in communication, public service, and digital technologies. I believe in continuous learning, personal development, and the power of international education to unlock future success. My academic foundation, combined with practical administrative experience and newly acquired digital business skills, supports my commitment to service and professional growth.",
+  "strengths": [
+    "Excellent communication and interpersonal skills",
+    "Quick learner and tech-savvy mindset",
+    "Emotionally balanced and ethically grounded",
+    "Ability to adapt and perform under pressure",
+    "Strong time management and discipline"
+  ],
+  "interests": [
+    "International education and global communication",
+    "Ethical growth, innovation, and service improvement",
+    "Using education and professional development to benefit local communities in Pakistan"
+  ],
+  "biography": "Organised and discreet administrative professional with experience as Personal Assistant to the Executive Director in a hospital setting. Skilled in managing executive schedules, confidential correspondence, interdepartmental coordination, and administrative reporting to support efficient leadership and smooth operations."
+}

@@ -1,0 +1,416 @@
+{
+  "blog": [
+    {
+      "id": "1",
+      "title": "By spite about do of allow",
+      "date": "April 28, 2020",
+      "image": "/images/blog/blog1.jpg",
+      "excerpt": "Ex audire suavitate has, ei quodsi tacimates sapientem sed, pri zril ubique ut. Te cule tation munere noluisse. Enim torquatos\u2026",
+      "body": [
+        "Ex audire suavitate has, ei quodsi tacimates sapientem sed, pri zril ubique ut. Te cule tation munere noluisse. Enim torquatos.",
+        "Replace this demonstration article with your own story, process, and insights."
+      ]
+    },
+    {
+      "id": "2",
+      "title": "By spite about do of allow",
+      "date": "April 28, 2020",
+      "image": "/images/blog/blog2.jpg",
+      "excerpt": "Ex audire suavitate has, ei quodsi tacimates sapientem sed, pri zril ubique ut. Te cule tation munere noluisse. Enim torquatos\u2026",
+      "body": [
+        "Ex audire suavitate has, ei quodsi tacimates sapientem sed, pri zril ubique ut. Te cule tation munere noluisse. Enim torquatos.",
+        "Replace this demonstration article with your own story, process, and insights."
+      ]
+    },
+    {
+      "id": "3",
+      "title": "By spite about do of allow",
+      "date": "April 28, 2020",
+      "image": "/images/blog/blog3.jpg",
+      "excerpt": "Ex audire suavitate has, ei quodsi tacimates sapientem sed, pri zril ubique ut. Te cule tation munere noluisse. Enim torquatos\u2026",
+      "body": [
+        "Ex audire suavitate has, ei quodsi tacimates sapientem sed, pri zril ubique ut. Te cule tation munere noluisse. Enim torquatos.",
+        "Replace this demonstration article with your own story, process, and insights."
+      ]
+    },
+    {
+      "id": "4",
+      "title": "By spite about do of allow",
+      "date": "April 28, 2020",
+      "image": "/images/blog/blog1.jpg",
+      "excerpt": "Ex audire suavitate has, ei quodsi tacimates sapientem sed, pri zril ubique ut. Te cule tation munere noluisse. Enim torquatos\u2026",
+      "body": [
+        "Ex audire suavitate has, ei quodsi tacimates sapientem sed, pri zril ubique ut. Te cule tation munere noluisse. Enim torquatos.",
+        "Replace this demonstration article with your own story, process, and insights."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "company": "New York",
+      "date": "2006 - 2008",
+      "description": "Bachelor's Degree in Computer Science ABC Technical Institute, Jefferson, Missouri",
+      "name": "Art University"
+    },
+    {
+      "company": "Paris",
+      "date": "2005 - 2006",
+      "description": "Coursework - Git, WordPress, Javascript, iOS, Android.",
+      "name": "Programming Course"
+    },
+    {
+      "company": "London",
+      "date": "2004 - 2005",
+      "description": "Converted Photoshop layouts to web pages using HTML, CSS, and JavaScript",
+      "name": "Web Design Course"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Facebook Inc.",
+      "date": "2013 - Present",
+      "description": "Collaborate with creative and development teams on the execution of ideas.",
+      "name": "Art Director"
+    },
+    {
+      "company": "Google Inc.",
+      "date": "2011 - 2012",
+      "description": "Monitored technical aspects of the front-end delivery for several projects.",
+      "name": "Front-end Developer"
+    },
+    {
+      "company": "Abc Inc.",
+      "date": "2009 - 2010",
+      "description": "Optimize website performance using latest technology.",
+      "name": "Senior Developer"
+    }
+  ],
+  "pricing": [
+    {
+      "features": [
+        {
+          "included": true,
+          "label": "Web Development"
+        },
+        {
+          "included": true,
+          "label": "Advetising"
+        },
+        {
+          "included": true,
+          "label": "Game Development"
+        },
+        {
+          "included": false,
+          "label": "Music Writing"
+        },
+        {
+          "included": false,
+          "label": "Photography new"
+        }
+      ],
+      "name": "Basic",
+      "price": 22,
+      "unit": "hour",
+      "currency": "$",
+      "icon": "fa fa-battery-half"
+    },
+    {
+      "features": [
+        {
+          "included": true,
+          "label": "Web Development"
+        },
+        {
+          "included": true,
+          "label": "Advetising"
+        },
+        {
+          "included": true,
+          "label": "Game Development"
+        },
+        {
+          "included": true,
+          "label": "Music Writing"
+        },
+        {
+          "included": true,
+          "label": "Photography new"
+        }
+      ],
+      "name": "Pro",
+      "price": 48,
+      "unit": "hour",
+      "currency": "$",
+      "icon": "fa fa-battery-full"
+    }
+  ],
+  "services": [
+    {
+      "description": "Modern and mobile-ready website that will help you reach all of your marketing.",
+      "icon": "fa fa-code",
+      "name": "Web Development"
+    },
+    {
+      "description": "Music copying, writing, creating, transcription, arranging and composition services.",
+      "icon": "fa fa-music",
+      "name": "Music Writing"
+    },
+    {
+      "description": "Advertising services include television, radio, print, mail, and web apps.",
+      "icon": "fa fa-buysellads",
+      "name": "Advetising"
+    },
+    {
+      "description": "Developing memorable and unique mobile android, ios and video games.",
+      "icon": "fa fa-gamepad",
+      "name": "Game Development"
+    }
+  ],
+  "works": [
+    {
+      "category": "Image",
+      "description": "A selection from my creative portfolio.",
+      "image": "/images/works/work1.jpg",
+      "name": "Motorcycle Helmet",
+      "url": "/images/works/work1.jpg",
+      "gallery": []
+    },
+    {
+      "category": "Video",
+      "description": "A selection from my creative portfolio.",
+      "image": "/images/works/work2.jpg",
+      "name": "Minimalism Shapes",
+      "url": "https://vimeo.com/97102654",
+      "gallery": []
+    },
+    {
+      "category": "Music",
+      "description": "A selection from my creative portfolio.",
+      "image": "/images/works/work3.jpg",
+      "name": "Staircase",
+      "url": "https://w.soundcloud.com/player/?visual=true&url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F221650664&show_artwork=true",
+      "gallery": []
+    },
+    {
+      "category": "Content",
+      "description": "So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably. Forfeited you engrossed but gay sometimes explained. Another as studied it to evident. Merry sense given he be arise. Conduct at an replied removal an amongst. Remaining determine few her two cordially admitting old. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque suscipit. Tiled say decay spoil now walls meant house. My mr interest thoughts screened of outweigh removing. Evening society musical besides inhabit ye my. Lose hill well up will he over on. Increasing sufficient everything men him admiration unpleasing sex. Greatest properly off ham exercise all. Unsatiable invitation its possession nor off. All difficulty estimating unreserved increasing the solicitude. Unpleasant astonished an diminution up partiality. Noisy an their of meant. Death means up civil do an offer wound of.",
+      "image": "/images/works/work4.jpg",
+      "name": "Mobile Application",
+      "url": "",
+      "gallery": []
+    },
+    {
+      "category": "Gallery",
+      "description": "A selection from my creative portfolio.",
+      "image": "/images/works/work5.jpg",
+      "name": "Gereal Travels",
+      "url": "",
+      "gallery": [
+        "/images/works/work5.jpg",
+        "/images/works/work1.jpg",
+        "/images/works/work4.jpg"
+      ]
+    },
+    {
+      "category": "Music",
+      "description": "A selection from my creative portfolio.",
+      "image": "/images/works/work8.jpg",
+      "name": "Daylight Entrance",
+      "url": "https://w.soundcloud.com/player/?visual=true&url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F221650664&show_artwork=true",
+      "gallery": []
+    },
+    {
+      "category": "Video",
+      "description": "A selection from my creative portfolio.",
+      "image": "/images/works/work6.jpg",
+      "name": "Architecture",
+      "url": "https://vimeo.com/97102654",
+      "gallery": []
+    },
+    {
+      "category": "Content",
+      "description": "So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably. Forfeited you engrossed but gay sometimes explained. Another as studied it to evident. Merry sense given he be arise. Conduct at an replied removal an amongst. Remaining determine few her two cordially admitting old. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque suscipit. Tiled say decay spoil now walls meant house. My mr interest thoughts screened of outweigh removing. Evening society musical besides inhabit ye my. Lose hill well up will he over on. Increasing sufficient everything men him admiration unpleasing sex. Greatest properly off ham exercise all. Unsatiable invitation its possession nor off. All difficulty estimating unreserved increasing the solicitude. Unpleasant astonished an diminution up partiality. Noisy an their of meant. Death means up civil do an offer wound of.",
+      "image": "/images/works/work7.jpg",
+      "name": "Social Website",
+      "url": "",
+      "gallery": []
+    }
+  ],
+  "name": "Ryan Adlard",
+  "roles": [
+    "Web Designer",
+    "Developer",
+    "Freelancer"
+  ],
+  "portrait": "/images/man5_big.jpg",
+  "avatar": "/images/profile.png",
+  "description": "I am Ryan Adlard, web designer from USA, California. I have rich experience in web site design and building and customization, also I am good at wordpress. I love to talk with you about our unique.",
+  "age": "24",
+  "residence": "USA",
+  "availability": "Available",
+  "address": "California, USA",
+  "email": "adlard@example.com",
+  "phone": "+123 654 78900",
+  "website": "",
+  "mapEmbedUrl": "",
+  "socials": [
+    {
+      "name": "Dribbble",
+      "icon": "fa fa-dribbble",
+      "url": "https://dribbble.com/"
+    },
+    {
+      "name": "Twitter",
+      "icon": "fa fa-twitter",
+      "url": "https://twitter.com/"
+    },
+    {
+      "name": "GitHub",
+      "icon": "fa fa-github",
+      "url": "https://github.com/"
+    },
+    {
+      "name": "Spotify",
+      "icon": "fa fa-spotify",
+      "url": "https://www.spotify.com/"
+    },
+    {
+      "name": "Stack Overflow",
+      "icon": "fa fa-stack-overflow",
+      "url": "https://stackoverflow.com/"
+    }
+  ],
+  "facts": [
+    {
+      "icon": "fa fa-music",
+      "label": "80 Albumes Listened"
+    },
+    {
+      "icon": "fa fa-trophy",
+      "label": "15 Awards Won"
+    },
+    {
+      "icon": "fa fa-coffee",
+      "label": "1 000 Cups of coffee"
+    },
+    {
+      "icon": "fa fa-flag",
+      "label": "10 Countries Visited"
+    }
+  ],
+  "clients": [
+    {
+      "name": "Client 1",
+      "image": "/images/clients/client_1.png",
+      "url": "https://www.google.com"
+    },
+    {
+      "name": "Client 2",
+      "image": "/images/clients/client_2.png",
+      "url": "https://www.google.com"
+    },
+    {
+      "name": "Client 3",
+      "image": "/images/clients/client_3.png",
+      "url": "https://www.google.com"
+    },
+    {
+      "name": "Client 4",
+      "image": "/images/clients/client_4.png",
+      "url": "https://www.google.com"
+    }
+  ],
+  "quote": {
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Ryan Adlard",
+    "role": "Web Designer",
+    "image": "/images/profile.png"
+  },
+  "testimonials": [
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "name": "Helen Floyd",
+      "role": "Art Director",
+      "image": "/images/man1.jpg"
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "name": "Robert Chase",
+      "role": "CEO",
+      "image": "/images/man1.jpg"
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "name": "Helen Floyd",
+      "role": "Art Director",
+      "image": "/images/man1.jpg"
+    }
+  ],
+  "skills": {
+    "design": [
+      {
+        "name": "Web Design",
+        "level": 90
+      },
+      {
+        "name": "Write Music",
+        "level": 65
+      },
+      {
+        "name": "Photoshop",
+        "level": 75
+      },
+      {
+        "name": "Graphic Design",
+        "level": 85
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "level": 90
+      },
+      {
+        "name": "German",
+        "level": 60
+      },
+      {
+        "name": "Italian",
+        "level": 30
+      },
+      {
+        "name": "French",
+        "level": 70
+      }
+    ],
+    "coding": [
+      {
+        "name": "WordPress",
+        "level": 90
+      },
+      {
+        "name": "PHP / MYSQL",
+        "level": 75
+      },
+      {
+        "name": "Angular / JavaScript",
+        "level": 85
+      },
+      {
+        "name": "HTML / CSS",
+        "level": 95
+      }
+    ],
+    "knowledge": [
+      "Website hosting",
+      "iOS and android apps",
+      "Create logo design",
+      "Design for print",
+      "Modern and mobile-ready",
+      "Advertising services include",
+      "Graphics and animations",
+      "Search engine marketing"
+    ]
+  }
+}

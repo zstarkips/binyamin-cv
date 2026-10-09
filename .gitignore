@@ -1,0 +1,11 @@
+node_modules/
+.next/
+.vercel/
+.env*
+!.env.example
+*.tsbuildinfo
+evidence/
+scripts/prepare-reference.py
+scripts/personalize.py
+scripts/refine-personalization.py
+output/
