@@ -19,6 +19,7 @@ Intentional differences: user's portrait and CV content; gear toggles persistent
 - Browser checks: section navigation, menu, light/dark toggle with persistence on reload, mobile navigation/form, no horizontal overflow at 390px.
 - Download CV triggers an actual PDF download. The generated four-page PDF was rendered and reviewed; language groups remain together after pagination adjustment.
 - Missing contact configuration returns a visible actionable error. Real Resend delivery remains pending account/API-key setup and an inbox check.
+- Vercel production deployment `dpl_6hJRLA8Gs9KtyE9pDnCSwkepAm9A` reached READY. Public site https://binyamin-cv.vercel.app opened successfully without a sign-in gate, with no browser errors observed. Production Download CV downloaded a four-page PDF containing the correct name, email, and employment history. Production contact endpoint correctly reports missing email configuration.
 
 ## Content review
 

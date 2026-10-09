@@ -2,6 +2,10 @@
 
 Next.js portfolio personalized from Binyamin's CV, with the Ryan demo's card layout, responsive navigation, light/dark gear switch, downloadable full-profile PDF, and a server-side Resend contact endpoint.
 
+**Live site:** https://binyamin-cv.vercel.app
+
+Deployed in the connected Vercel workspace `odestar`. Email delivery and automatic GitHub deployment require the account setup in SETUP.md.
+
 ## Run locally
 
 Use Node.js 22 or 24.
