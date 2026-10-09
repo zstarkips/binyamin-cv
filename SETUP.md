@@ -4,6 +4,12 @@
 
 Connect `zstarkips/binyamin-cv` in Vercel. Select **Next.js**, repository root, and Node.js **24.x**. Default build/install settings work: `npm run build` and `npm ci`. Pushes to `main` deploy production.
 
+Current setup: the initial site was submitted directly through Vercel's file deployment API because the connected Vercel account lacks a GitHub Login Connection. To enable automatic updates, add GitHub under Vercel Account Settings → Authentication, then connect this repository under the project's Settings → Git. Until linked, a GitHub push alone will not update the live site.
+
+Project: `binyamin-cv`, team: `odestar`. The Vercel connector also rejected environment-variable writes, and the local CLI was logged out. Add both variables yourself using the dashboard link below; no email variables have been installed automatically.
+
+[Vercel environment settings](https://vercel.com/odestar/binyamin-cv/settings/environment-variables)
+
 ## Environment variables
 
 Add these in the Vercel project under **Settings → Environment Variables**. Use Production and Preview; add Development only if needed locally. Redeploy after changing variables.

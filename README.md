@@ -15,7 +15,7 @@ Open http://localhost:3100. For production: `npm run build` then `npm start`. Ru
 
 ## Edit your details
 
-Edit `content/profile.json` and commit to GitHub. Vercel rebuilds the website from the connected repository. There is no admin login or database to configure.
+Edit `content/profile.json` and commit to GitHub. After completing the Git connection described in SETUP.md, Vercel rebuilds the website from that repository. There is no admin login or database to configure.
 
 - `name`, `roles`, `description`, `biography`, `email`, `phone`, `address`, `socials`: main profile and contact details. `description` is the short website introduction; `biography` is the complete PDF introduction.
 - `experience`, `education`, `services`, `skills`, `strengths`, `interests`: CV sections.
