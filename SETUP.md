@@ -4,11 +4,11 @@
 
 Connect `zstarkips/binyamin-cv` in Vercel. Select **Next.js**, repository root, and Node.js **24.x**. Default build/install settings work: `npm run build` and `npm ci`. Pushes to `main` deploy production.
 
-Current setup: the initial site was submitted directly through Vercel's file deployment API because the connected Vercel account lacks a GitHub Login Connection. To enable automatic updates, add GitHub under Vercel Account Settings → Authentication, then connect this repository under the project's Settings → Git. Until linked, a GitHub push alone will not update the live site.
+Current setup: project `binyamin-cv` is connected to `zstarkips/binyamin-cv` in the user's `doc-scanner1` (DocScanner) workspace. Production URL: https://binyamin-cv-eight.vercel.app. The earlier `binyamin-cv.vercel.app` deployment in a different connected workspace is not the configured email-enabled site.
 
-Project: `binyamin-cv`, team: `odestar`. The Vercel connector also rejected environment-variable writes, and the local CLI was logged out. Add both variables yourself using the dashboard link below; no email variables have been installed automatically.
+Both variables below are installed for Production and Preview, with sensitive-value storage enabled. The existing user-created Resend key was transferred directly into Vercel without saving it to source files. A real contact-form test was reported delivered to `binyaminmughal@outlook.com` by Resend on 10 October 2026.
 
-[Vercel environment settings](https://vercel.com/odestar/binyamin-cv/settings/environment-variables)
+[Vercel project](https://vercel.com/doc-scanner1/binyamin-cv)
 
 ## Environment variables
 

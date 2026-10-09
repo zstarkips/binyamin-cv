@@ -2,9 +2,9 @@
 
 Next.js portfolio personalized from Binyamin's CV, with the Ryan demo's card layout, responsive navigation, light/dark gear switch, downloadable full-profile PDF, and a server-side Resend contact endpoint.
 
-**Live site:** https://binyamin-cv.vercel.app
+**Live site:** https://binyamin-cv-eight.vercel.app
 
-Deployed in the connected Vercel workspace `odestar`. Email delivery and automatic GitHub deployment require the account setup in SETUP.md.
+Deployed in the user's Vercel workspace `doc-scanner1` (DocScanner), connected to this GitHub repository. Resend variables are configured for Production and Preview. A contact-form setup test was reported delivered by Resend on 10 October 2026. See SETUP.md for maintenance and the shared test sender's restrictions.
 
 ## Run locally
 
@@ -19,7 +19,7 @@ Open http://localhost:3100. For production: `npm run build` then `npm start`. Ru
 
 ## Edit your details
 
-Edit `content/profile.json` and commit to GitHub. After completing the Git connection described in SETUP.md, Vercel rebuilds the website from that repository. There is no admin login or database to configure.
+Edit `content/profile.json` and commit to GitHub. Vercel rebuilds the website from that repository. There is no admin login or database to configure.
 
 - `name`, `roles`, `description`, `biography`, `email`, `phone`, `address`, `socials`: main profile and contact details. `description` is the short website introduction; `biography` is the complete PDF introduction.
 - `experience`, `education`, `services`, `skills`, `strengths`, `interests`: CV sections.
